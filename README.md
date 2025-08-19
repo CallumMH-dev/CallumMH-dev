@@ -3,7 +3,7 @@ It's just been taught wrong for so long, amassing such a large following of wron
 mainly abstracting functions for the sake of abstraction and encapsulation (commonly known as indirection)
 and trying to keep functions small by splitting parts up leading to even more abstraction.
 
-resulting in programs nowadays being slow and/or broken on production, this has even affected the games industry where performance-critical code
+Resulting in programs nowadays being slow and/or broken on production, this has even affected the games industry where performance-critical code
 is a must, it wasn't even that long ago that when a game released that was it, you had to try your very best.
 
 Nowadays we have day one patches because a feature broke or there was some gamebreaking bug leading to RCE attacks ON RELEASE.
