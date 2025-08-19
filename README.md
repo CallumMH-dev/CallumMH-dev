@@ -6,7 +6,7 @@ and trying to keep functions small by splitting parts up leading to even more ab
 Resulting in programs nowadays being slow and/or broken on production, this has even affected the games industry where performance-critical code
 is a must, it wasn't even that long ago that when a game released that was it, you had to try your very best.
 
-Nowadays we have day one patches because a feature broke or there was some gamebreaking bug leading to RCE attacks ON RELEASE.
+Nowadays we have day one patches because a feature broke or there was some gamebreaking bug leading to arbitrary code executions ON RELEASE.
 (looking at your elden ring)
 
 For a moment, think about all the software you currently use and note how many times things crash or error on your system,
