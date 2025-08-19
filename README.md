@@ -16,7 +16,7 @@ Software is in a sorry state.
 If I could give any advice to a new programmer it would be this: 
 
 follow these two principles: DRY and YAGNI (Don't repeat yourself and you ain't gonna need it!).
-you'll learn to make functions when you actually need them, and not just for the sake of speculation
+You'll learn to make functions when you actually need them, and not just for the sake of speculation
 AND REMEMBER, only a sith deals in absolutes, these are guidelines, not hard and fast rules.
 <!---
 CallumMH-dev/CallumMH-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
